@@ -32,20 +32,28 @@ To analyze business operations data to gain insights into sales performance, reg
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/c228f046-e4dc-4d6a-9159-bcecbefd0e68)
 
 ## Web Events Analysis
-#### Q6. Count the number of web events for each account.
-![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/f75b6497-49f4-4f2a-9bd6-472e07dec2ba)
+#### Q6. Count the number of web events for top 10 account.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/0557e0ec-d4ba-4fc5-940d-24b6c4e110db)
 
 #### Q7. Determine the most common channel for web events.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/73d28c04-b7e4-47aa-8ac7-339d45d5d5c6)
 
 ## Order Analysis
-#### Q8. Find the average order value for each account.
+#### Q8. Find the average order value for each 10 account.
+
+
+
 #### Q9. Determine the product mix (standard, gloss, poster) for each account.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/8902188c-4d94-4a76-abf8-88c613feca8d)
 
 ## Geographical Analysis
-#### Q10. Identify the geographical distribution of accounts based on latitude and longitude.
+#### Q10. Identify the geographical distribution of 10 accounts based on latitude and longitude.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/fb9f2d76-3313-43a0-bc18-9620f04b5d7f)
 
 ## Time-Based Analysis
 #### Q11 Calculate the monthly revenue trend for the entire company.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/dd373e9d-2da3-4368-b07e-c831728943f4)
+
 #### Q12 Find the peak revenue months for each account.
 
 ## Cross-Table Analysis
