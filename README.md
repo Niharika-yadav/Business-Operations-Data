@@ -55,6 +55,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q11 Calculate the monthly revenue trend for the entire company.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/dd373e9d-2da3-4368-b07e-c831728943f4)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/9bc92b28cdba1a0bfe58321173d316b4e8560eb1/Output/Output11.png)
+
 #### Q12 Find the peak revenue months for each account.
 
 ## Cross-Table Analysis
