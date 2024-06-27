@@ -17,6 +17,7 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q1. Which sales reps are handling which accounts?
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/908c7de0-a4a1-4da4-a5ce-1416194baead)
 
+![Output](https://tinyurl.com/IOutput1) 
 
 #### Q2. One of the aspects that  the business wants to explore is what has been the share of each sales representative's s year on year sales out of the total yearly sales.
 
