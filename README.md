@@ -71,6 +71,7 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q14 Join the accounts and web_events tables to find the most active accounts in terms of web events.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/3c70dffd-6cb4-4429-bb0f-c65947e6ae27)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/0cb81d5fae4be07a5c3d85d98a4afcf47f2bb302/Output/Output%2014.png)
 
 ## Conclusion
 
