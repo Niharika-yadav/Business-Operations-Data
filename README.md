@@ -66,6 +66,7 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q13 Join the accounts and orders tables to list the top 10 accounts by total revenue.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/f6a92e81-4ca3-4cd2-912a-89961fec890f)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/b836bebbfd3064aee572091dd1ac4f47089675d4/Output/Output%2013.png)
 
 #### Q14 Join the accounts and web_events tables to find the most active accounts in terms of web events.
 
