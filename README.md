@@ -58,6 +58,7 @@ To analyze business operations data to gain insights into sales performance, reg
 [Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/9bc92b28cdba1a0bfe58321173d316b4e8560eb1/Output/Output11.png)
 
 #### Q12 Find the peak revenue months for each account.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/9d3a3f16-92fe-4f96-b2ca-56aec15ad87e)
 
 ## Cross-Table Analysis
 #### Q13 Join the accounts and orders tables to list the top 10 accounts by total revenue.
