@@ -52,7 +52,7 @@ To analyze business operations data to gain insights into sales performance, reg
 
 ## Order Analysis
 #### Q8. Find the average order value for top 10 account.
-![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/17fe865f-21eb-4f8a-a2b8-1939f88b26fa)
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/34188b58-e6ca-44a6-9fdc-65f1c729340c)
 
 
 
