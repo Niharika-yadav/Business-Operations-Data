@@ -59,6 +59,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q9. Determine the product mix (standard, gloss, poster) for each account.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/8902188c-4d94-4a76-abf8-88c613feca8d)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/78b33548fb14d98bb7c25a714e9eb0de8e5916f8/Output/Output%209.png)
+
 ## Geographical Analysis
 #### Q10. Identify the geographical distribution of 10 accounts based on latitude and longitude.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/fb9f2d76-3313-43a0-bc18-9620f04b5d7f)
