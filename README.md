@@ -48,6 +48,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q7. Determine the most common channel for web events.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/73d28c04-b7e4-47aa-8ac7-339d45d5d5c6)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/4f325dea574c491a1234ada74ab3d1033365b9b9/Output/Output%207.png)
+
 ## Order Analysis
 #### Q8. Find the average order value for each 10 account.
 
