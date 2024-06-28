@@ -37,6 +37,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q5. Identify the top 5 accounts in terms of revenue in each region.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/c228f046-e4dc-4d6a-9159-bcecbefd0e68)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/a7b1ac95ff984d32e7427b6be2e3ee7eef6a5f54/Output/Output%205.png)
+
 ## Web Events Analysis
 #### Q6. Count the number of web events for top 10 account.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/0557e0ec-d4ba-4fc5-940d-24b6c4e110db)
