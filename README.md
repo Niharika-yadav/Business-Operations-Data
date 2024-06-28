@@ -65,6 +65,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q10. Identify the geographical distribution of 10 accounts based on latitude and longitude.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/fb9f2d76-3313-43a0-bc18-9620f04b5d7f)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/091f301256f64a22bd7e11358f4fc9d41c40b37d/Output/Output%2010.png)
+
 ## Time-Based Analysis
 #### Q11 Calculate the monthly revenue trend for the entire company.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/dd373e9d-2da3-4368-b07e-c831728943f4)
