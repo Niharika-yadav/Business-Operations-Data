@@ -22,6 +22,7 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q2. One of the aspects that  the business wants to explore is what has been the share of each sales representative's s year on year sales out of the total yearly sales.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/c7d6ba95-15df-405a-be8e-1d565e3b5402)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/f4061601ebc265658043b95af18658a4938f62af/Output/Output%202.png)
 
 ## Revenue Analysis 
 #### Q3. The business wants to understand which accounts contribute to the bulk of the revenue and the business also wants to see year on year trend on the revenue contribution of top 10 account, The final table should show revenue share top 10 account for each year's total revenue.
