@@ -20,6 +20,7 @@ To analyze business operations data to gain insights into sales performance, reg
 [Output](https://tinyurl.com/IOutput1)
 
 #### Q2. One of the aspects that  the business wants to explore is what has been the share of each sales representative's s year on year sales out of the total yearly sales.
+![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/fa3d1d19-d22e-43a8-9f83-8bf2f533731b)
 
 
 ## Revenue Analysis 
