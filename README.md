@@ -54,7 +54,7 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q8. Find the average order value for top 10 account.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/34188b58-e6ca-44a6-9fdc-65f1c729340c)
 
-
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/aa5ada8d8cb8832e92582e47488615fed17af4b5/Output/Output%208.png)
 
 #### Q9. Determine the product mix (standard, gloss, poster) for each account.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/8902188c-4d94-4a76-abf8-88c613feca8d)
