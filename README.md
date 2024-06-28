@@ -43,6 +43,8 @@ To analyze business operations data to gain insights into sales performance, reg
 #### Q6. Count the number of web events for top 10 account.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/0557e0ec-d4ba-4fc5-940d-24b6c4e110db)
 
+[Output](https://github.com/Niharika-yadav/Business-Operations-Data/blob/bda362c48d506836baad45880b7492147017e9d8/Output/Output%206.png)
+
 #### Q7. Determine the most common channel for web events.
 ![image](https://github.com/Niharika-yadav/Business-Operations-Data/assets/160738276/73d28c04-b7e4-47aa-8ac7-339d45d5d5c6)
 
